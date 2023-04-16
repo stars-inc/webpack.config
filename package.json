@@ -1,0 +1,9 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack config, ts, js, tsx, eslint",
+  "main": "index.ts",
+  "repository": "https://github.com/stars-inc/webpack.config.git",
+  "author": "Alex <stars_inc@mail.ru>",
+  "license": "MIT"
+}
